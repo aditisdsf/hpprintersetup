@@ -4,7 +4,7 @@ How to Set Up an HP Printer: A Complete Guide
 
 Setting up a new HP printer can seem daunting, especially with the variety of connection options, operating systems, and network configurations available today. However, with the right guidance, the process is straightforward and can be completed in under 15 minutes.
 
-.. image:: https://img.shields.io/badge/Set%20Up-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
+.. image:: https://img.shields.io/badge/Set%20Up%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
    :align: center
    :target: https://setupprinter.net/
